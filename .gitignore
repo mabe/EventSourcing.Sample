@@ -1,17 +1,16 @@
-# Object files
-*.o
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+[Dd]ebug/
+[Rr]elese/
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+*.sln.cache
+/TestResults
+*.vspscc
+*.vssscc
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
+[Mm]etric[Rr]esults
+[Pp]ackages
+[Ss]ervices/[Rr]aven[Dd]b/[Dd]ata
+[Ss]ervices/[Rr]aven[Dd]b/[Ll]ogs
